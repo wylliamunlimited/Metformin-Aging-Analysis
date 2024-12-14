@@ -1,0 +1,10 @@
+# Ignore all files containing 'checkpoint' in their name, in all directories
+*checkpoint*
+
+# Ignore all .DS_Store files, in all directories
+.DS_Store
+
+*.ipynb_checkpoints/
+
+
+*.h5
