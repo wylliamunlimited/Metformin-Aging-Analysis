@@ -11,3 +11,11 @@ From another paper evaluating Metformin's role on mice's aging condition, this p
 Mice Gene Expression Differentiated by Metformin Treatment
 Human Gene Expression
 Human Phenotype
+
+
+# Extra Class
+`diabete_2`
+| value | meaning |
+| ----- | ------- |
+| 1 | positive |
+| 0 | negative |
